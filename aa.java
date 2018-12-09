@@ -54,7 +54,7 @@ public class aa extends javax.swing.JFrame {
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(112, 110, 112)
+                .addGap(112, 112, 112)
                 .addComponent(jButton1)
                 .addContainerGap(165, Short.MAX_VALUE))
         );
